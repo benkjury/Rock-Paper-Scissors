@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Rock Paper Scissors Project
+Rock Paper Scissors Project - The Odin Project
